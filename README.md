@@ -37,14 +37,6 @@
 <!-- ===== Activity ===== -->
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefelshahaawy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefelshahaawy&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
-
 <!-- ===== Snake ===== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/youssefelshahaawy/youssefelshahaawy/output/github-contribution-grid-snake.svg" alt="snake eating the contribution graph" />

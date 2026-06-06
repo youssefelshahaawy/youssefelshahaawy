@@ -1,6 +1,6 @@
 <!-- ===== Header banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=220&section=header&text=Youssef%20Elshahawy&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer&descSize=20&descAlignY=58" alt="Youssef Elshahawy" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=220&section=header&text=Youssef%20Elshahawy&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%7C%20Python%20%7C%20C%2B%2B%20Developer&descSize=20&descAlignY=58" alt="Youssef Elshahawy" />
 </p>
 
 <!-- ===== Socials + view counter ===== -->
@@ -13,43 +13,29 @@
   <img src="https://komarev.com/ghpvc/?username=youssefelshahaawy&label=Profile%20views&color=7AA2F7&style=for-the-badge" alt="views"/>
 </p>
 
-<!-- ===== About ===== -->
-## 👋 Hey, I'm Youssef
-
-I'm an **aspiring software developer** who learns by building real things.
-
-- 🐍 I build with **Python** — CLI games, desktop GUIs, automation, and apps that talk to web APIs
-- 🔭 My code lives in [**`python-projects`**](https://github.com/youssefelshahaawy/python-projects) — a collection of **33 projects**
-- 🌱 Sharpening my problem-solving and computer-science fundamentals
-- 🎯 Working toward my first role as a software developer
-- 📫 Say hi through any of the badges above
-
-<!-- ===== Tech ===== -->
-## 🧰 Tech I Work With
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,pycharm&theme=dark" alt="Python, Git, GitHub, VS Code, PyCharm" />
+  I build cross-platform apps with <b>Flutter</b>, real-time graphics in <b>C / OpenGL</b>, and games &amp; tools in <b>Python</b>.
 </p>
 
-<!-- ===== Featured ===== -->
-## 🚀 Featured Project
+<!-- ===== Tech ===== -->
+## 🧰 Languages & Tech
 
-<table align="center">
-  <tr>
-    <td width="600">
-      <h3>🐍 <a href="https://github.com/youssefelshahaawy/python-projects">python-projects</a></h3>
-      <p>33 hands-on Python projects — from command-line games (Hangman, Blackjack) and object-oriented apps, to Turtle games (Snake, Pong, Turtle Crossing), Tkinter desktop tools, and small programs that call live web APIs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/projects-33-2ea44f?style=flat-square"/>
-        <img src="https://img.shields.io/badge/license-MIT-7AA2F7?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,cpp,c,html,css,sass&theme=dark" alt="Python, Dart, Flutter, C++, C, HTML, CSS, Sass" />
+  <br/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+</p>
+
+<!-- ===== Projects ===== -->
+## 🚀 What I've Built
+
+- 🐍 **[python-projects](https://github.com/youssefelshahaawy/python-projects)** — 33 Python projects: CLI games, OOP, Tkinter GUIs, and apps that call live web APIs
+- 📱 **[MindMate-app](https://github.com/youssefelshahaawy/MindMate-app)** — a cross-platform mobile app built with **Flutter & Dart**
+- 🎮 **[Opengl_project](https://github.com/youssefelshahaawy/Opengl_project)** — real-time graphics programming in **C / OpenGL**
+- 💳 **[name-card](https://github.com/youssefelshahaawy/name-card)** — a responsive digital name card styled with **Sass & CSS**
 
 <!-- ===== Activity ===== -->
-## 📈 My GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefelshahaawy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />

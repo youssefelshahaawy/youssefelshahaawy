@@ -9,8 +9,6 @@
   <a href="https://x.com/elshosh84"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.instagram.com/youssefelshahaawy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:youssefelshahawy777@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=youssefelshahaawy&label=Profile%20views&color=7AA2F7&style=for-the-badge" alt="views"/>
 </p>
 
 <p align="center">
